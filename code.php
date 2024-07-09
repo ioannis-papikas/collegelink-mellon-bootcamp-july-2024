@@ -25,6 +25,14 @@ class BadCar {
 	}
 }
 
+
+class IoannaSp {
+	public function randomFunc() {}
+	public function randomFunc2() {}
+	public function randomFunc3() {}
+}
+
+}
 class Nikoletta{
 	
 }
