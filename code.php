@@ -24,6 +24,8 @@ class BadCar {
 	public function aldoPatusi() {}
 	public function Kostas() {}
 	/** and the list goes on... */
+	
+	public function Vaggelis(){}
 
 	public function Ramona(){}
 	public function kosmasfritzalas() {}
