@@ -15,4 +15,6 @@ class BadCar {
 	public function createSUV() {}
 	public function createSuperCar() {}
 	/** and the list goes on... */
+	
+	public function Vaggelis(){}
 }
