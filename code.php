@@ -15,5 +15,6 @@ class BadCar {
 	public function createSUV() {}
 	public function createSuperCar() {}
 	/** and the list goes on... */
-	public function kosmasfritzalas(){}
+	public function kosmasfritzalas() {}
+	public function fritzalas() {}
 }
