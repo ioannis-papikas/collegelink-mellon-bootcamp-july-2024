@@ -10,6 +10,7 @@ class SubClass extends BaseClass {
 
 
 class BadCar {
+	public function mariadamaskou() {}
 	public function createCar() {}
 	public function createLimousine() {}
 	public function createSUV() {}
