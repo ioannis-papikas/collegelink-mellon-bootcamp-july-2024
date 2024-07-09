@@ -10,9 +10,14 @@ class SubClass extends BaseClass {
 	private $protected; // NOT ALLOWED
 }
 
+class RebaseClass {
+	// test
+}
+
 class Konstantina {
 	/* Insert functions here */
 }
+
 
 class BadCar {
 	public function mariadamaskou() {}
@@ -50,7 +55,7 @@ class IoannaSp {
 	public function randomFunc3() {}
 }
 
-}
+
 class Nikoletta{
 	
 }
