@@ -16,3 +16,10 @@ class BadCar {
 	public function createSuperCar() {}
 	/** and the list goes on... */
 }
+
+
+class TeoLyr {
+	public function lol() {}
+	public function wtf() {}
+	public function lmao() {}
+}
