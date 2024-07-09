@@ -16,3 +16,10 @@ class BadCar {
 	public function createSuperCar() {}
 	/** and the list goes on... */
 }
+
+
+class IoannaSp {
+	public function randomFunc() {}
+	public function randomFunc2() {}
+	public function randomFunc3() {}
+}
