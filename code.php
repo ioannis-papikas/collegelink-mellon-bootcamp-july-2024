@@ -19,6 +19,8 @@ class BadCar {
 	public function createSuperCar() {}
 	public function Kostas() {}
 	/** and the list goes on... */
+
+	public function Ramona(){}
 	public function kosmasfritzalas() {}
 	public function fritzalas() {}
 
