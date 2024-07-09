@@ -1,1 +1,5 @@
 Test file for rebase
+
+Add new line
+
+Add paragraph
