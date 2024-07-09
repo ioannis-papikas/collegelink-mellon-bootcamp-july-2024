@@ -16,3 +16,7 @@ class BadCar {
 	public function createSuperCar() {}
 	/** and the list goes on... */
 }
+
+class Nikoletta{
+	
+}
