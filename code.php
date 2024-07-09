@@ -31,6 +31,12 @@ class BadCar {
 }
 
 
+class TeoLyr {
+	public function lol() {}
+	public function wtf() {}
+	public function lmao() {}
+}
+
 class IoannaSp {
 	public function randomFunc() {}
 	public function randomFunc2() {}
