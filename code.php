@@ -5,6 +5,8 @@ class SubClass extends BaseClass {
 	public $private;  // Allowed
 	public $protected;  // Allowed
 
+	public $kostas_mitsanas;
+	
 	private $protected; // NOT ALLOWED
 }
 
