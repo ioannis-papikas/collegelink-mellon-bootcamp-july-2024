@@ -20,6 +20,7 @@ class BadCar {
 	public function createLimousine() {}
 	public function createSUV() {}
 	public function createSuperCar() {}
+	public function createSuperDuperCar() {}
 	public function aldoPatusi() {}
 	public function Kostas() {}
 	/** and the list goes on... */
