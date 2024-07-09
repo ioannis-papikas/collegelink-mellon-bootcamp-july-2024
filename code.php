@@ -23,3 +23,7 @@ class BadCar {
 		
 	}
 }
+
+class Nikoletta{
+	
+}
