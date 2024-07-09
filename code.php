@@ -13,6 +13,9 @@ class BadCar {
 	public function createCar() {}
 	public function createLimousine() {}
 	public function createSUV() {}
-	public function createSuperCar() {}
+	public function createSUV() {} /**KATSARINIS */
+	
 	/** and the list goes on... */
 }
+
+
