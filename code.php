@@ -10,6 +10,9 @@ class SubClass extends BaseClass {
 	private $protected; // NOT ALLOWED
 }
 
+class Konstantina {
+	/* Insert functions here */
+}
 
 class BadCar {
 	public function mariadamaskou() {}
